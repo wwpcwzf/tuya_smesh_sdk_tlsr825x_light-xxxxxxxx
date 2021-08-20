@@ -1,0 +1,1 @@
+# tuya_smesh_sdk_tlsr825x_light-xxxxxxxx
